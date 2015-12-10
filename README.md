@@ -9,3 +9,5 @@ CMDetailDemo
 
 Thanks Developer
 
+ 感谢huanxsd/JYPaging造的轮子 https://github.com/huanxsd/JYPaging
+
