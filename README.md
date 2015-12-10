@@ -1,0 +1,2 @@
+CMDetailDemo
+一个类似淘宝App的详情的demo,可上下切换，下方更多详情可左右滑动。
